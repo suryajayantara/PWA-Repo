@@ -1,4 +1,6 @@
-[{"id":1,"jumlah_KWH":92,"harga_kwh":"Yuan Renminbi","total_harga":"Peso"},
+{"listrik":
+[
+{"id":1,"jumlah_KWH":92,"harga_kwh":"Yuan Renminbi","total_harga":"Peso"},
 {"id":2,"jumlah_KWH":31,"harga_kwh":"Rupiah","total_harga":"Yuan Renminbi"},
 {"id":3,"jumlah_KWH":15,"harga_kwh":"Yuan Renminbi","total_harga":"Hryvnia"},
 {"id":4,"jumlah_KWH":81,"harga_kwh":"Rial","total_harga":"Koruna"},
@@ -18,3 +20,4 @@
 {"id":18,"jumlah_KWH":98,"harga_kwh":"Peso","total_harga":"Peso"},
 {"id":19,"jumlah_KWH":22,"harga_kwh":"Rupiah","total_harga":"Hryvnia"},
 {"id":20,"jumlah_KWH":76,"harga_kwh":"Zloty","total_harga":"Peso"}]
+}
